@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🌍 VUCA Decision-Tree Game</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1 class="glow">VUCA Decision-Tree Game</h1>
+
+  <!-- ── SETUP ────────────────────────────────────────────── -->
+  <div class="setup-box" id="setupBox">
+    <div class="field">
+      <label for="usernameInput">Nickname</label>
+      <input id="usernameInput" type="text" placeholder="Enter nickname" />
+    </div>
+
+    <div class="field">
+      <label for="industrySelect">Industry</label>
+      <select id="industrySelect"></select>
+    </div>
+
+    <button id="startBtn" class="primary-btn">Start Game</button>
+  </div>
+
+  <!-- ── GAME ─────────────────────────────────────────────── -->
+  <div class="question-box hidden" id="questionBox">
+    <div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+    <h2 id="scenario" class="scenario-text"></h2>
+    <div class="choices" id="choices"></div>
+    <div class="score-box" id="scoreBox"></div>
+    <button class="primary-btn next-btn hidden" id="nextBtn">Next&nbsp;Scenario</button>
+  </div>
+
+  <!-- ── RESULTS ──────────────────────────────────────────── -->
+  <div class="results-box hidden" id="resultsBox"></div>
+
+  <!-- ── LEADERBOARD ──────────────────────────────────────── -->
+  <div class="leaderboard-box hidden" id="leaderboardBox"></div>
+
+  <!-- Firebase v9 compat  -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js"></script>
+
+  <!-- Game logic -->
+  <script src="script.js"></script>
+</body>
+</html>

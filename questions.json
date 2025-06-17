@@ -1,0 +1,1089 @@
+[
+  {
+    "industry": "Retail",
+    "category": "Volatility",
+    "text": "Holiday rush triples footfall without warning.",
+    "choices": [
+      { "text": "Open express checkout lanes and redirect staff to registers.", "score": 88, "roi": 14000 },
+      { "text": "Hire on-call gig workers through an app.", "score": 60, "roi": 5000 },
+      { "text": "Limit store entry to 50 customers at a time for safety.", "score": 50, "roi": 2000 },
+      { "text": "Extend store hours into the night to spread traffic.", "score": 75, "roi": 10000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Volatility",
+    "text": "A supplier shipment is delayed two days before your ad campaign launches.",
+    "choices": [
+      { "text": "Source emergency stock from alternate suppliers at a premium.", "score": 85, "roi": 12000 },
+      { "text": "Quietly postpone the promotion by one week.", "score": 55, "roi": 3000 },
+      { "text": "Cancel the campaign to protect brand reputation.", "score": 40, "roi": -5000 },
+      { "text": "Upgrade shipping to same-day air freight.", "score": 70, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Uncertainty",
+    "text": "A trendy pop-up mall opens next door and could steal traffic.",
+    "choices": [
+      { "text": "Launch a loyalty drive with instant rewards for return visits.", "score": 80, "roi": 15000 },
+      { "text": "Open a temporary kiosk inside the pop-up mall to piggy-back traffic.", "score": 75, "roi": 9000 },
+      { "text": "Shift focus to e-commerce and targeted social ads.", "score": 45, "roi": 0 },
+      { "text": "Sponsor local influencers for store walkthroughs.", "score": 65, "roi": 6000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Uncertainty",
+    "text": "Rental clothing services gain buzz among Gen-Z customers.",
+    "choices": [
+      { "text": "Pilot a rental rack in the flagship store.", "score": 78, "roi": 12000 },
+      { "text": "Partner with an existing rental platform for cross-listing.", "score": 70, "roi": 8000 },
+      { "text": "Maintain sales-only model and monitor trends.", "score": 30, "roi": -2000 },
+      { "text": "Run customer surveys for three months before acting.", "score": 50, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Complexity",
+    "text": "New regional eco-label rules force different packaging standards by city.",
+    "choices": [
+      { "text": "Create a central compliance team to manage regional SKUs.", "score": 75, "roi": -5000 },
+      { "text": "Adopt the strictest standard globally to simplify operations.", "score": 85, "roi": -2000 },
+      { "text": "Switch to generic unbranded packaging to avoid claims.", "score": 60, "roi": -3000 },
+      { "text": "Delay changes until fines are actually levied.", "score": 25, "roi": -15000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Complexity",
+    "text": "Real-time inventory sync fails across online and in-store channels.",
+    "choices": [
+      { "text": "Invest in a new headless commerce platform with live stock APIs.", "score": 90, "roi": 17000 },
+      { "text": "Switch to twice-daily batch updates for the website.", "score": 60, "roi": 4000 },
+      { "text": "Disable online checkout for all low-stock items.", "score": 55, "roi": 2000 },
+      { "text": "Ignore discrepancies and handle refunds case-by-case.", "score": 30, "roi": -5000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Ambiguity",
+    "text": "Shoppers increasingly ask for detailed sustainability scores.",
+    "choices": [
+      { "text": "Add QR codes that link to lifecycle carbon data on each tag.", "score": 85, "roi": 12000 },
+      { "text": "Apply for an independent green certification badge.", "score": 70, "roi": 8000 },
+      { "text": "Publish a vague sustainability statement on the website only.", "score": 30, "roi": -2000 },
+      { "text": "Wait to see if the trend lasts before investing.", "score": 40, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Ambiguity",
+    "text": "AI chatbots could replace half of customer service staff.",
+    "choices": [
+      { "text": "Pilot a chatbot for FAQs while reskilling agents for complex issues.", "score": 75, "roi": 9000 },
+      { "text": "Retrain all staff into sales consultants and let AI handle support.", "score": 65, "roi": 5000 },
+      { "text": "Ignore chatbots until competitors adopt them broadly.", "score": 35, "roi": 0 },
+      { "text": "Replace 30 % of staff immediately with a low-cost bot.", "score": 45, "roi": 2000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Volatility",
+    "text": "A rival launches a surprise 70 % flash sale for 24 hours.",
+    "choices": [
+      { "text": "Match the discount but limit it to best-selling categories.", "score": 80, "roi": 10000 },
+      { "text": "Highlight your exclusive product lines instead of discounting.", "score": 60, "roi": 3000 },
+      { "text": "Stick to current pricing and emphasize quality over price.", "score": 40, "roi": -2000 },
+      { "text": "Offer a price-match guarantee for the flash-sale period.", "score": 85, "roi": 12000 }
+    ]
+  },
+  {
+    "industry": "Retail",
+    "category": "Uncertainty",
+    "text": "Local community groups want to rent store space for events after hours.",
+    "choices": [
+      { "text": "Host weekly workshops to build community loyalty.", "score": 85, "roi": 9000 },
+      { "text": "Lease space to external event agencies only.", "score": 70, "roi": 6000 },
+      { "text": "Decline offers due to security concerns.", "score": 30, "roi": 0 },
+      { "text": "Sell the space usage rights to a direct competitor.", "score": 45, "roi": 2000 }
+    ]
+  },
+
+  {
+    "industry": "Tech",
+    "category": "Volatility",
+    "text": "A critical patch bricked thousands of user devices overnight.",
+    "choices": [
+      { "text": "Roll back the patch and issue public apologies with credits.", "score": 95, "roi": 20000 },
+      { "text": "Push a hotfix patch within 12 hours, no public statement.", "score": 75, "roi": 12000 },
+      { "text": "Blame third-party hardware compatibility issues.", "score": 30, "roi": -8000 },
+      { "text": "Offer hardware replacements for affected users.", "score": 60, "roi": -15000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Volatility",
+    "text": "A top enterprise client cancels a multimillion-dollar contract unexpectedly.",
+    "choices": [
+      { "text": "Upsell other clients with accelerated roadmap features.", "score": 80, "roi": -5000 },
+      { "text": "Offer discounted renewal terms to win the client back.", "score": 75, "roi": 10000 },
+      { "text": "Lay off staff and downsize to cut burn.", "score": 55, "roi": -20000 },
+      { "text": "Pivot budget toward a new consumer product line.", "score": 70, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Uncertainty",
+    "text": "Rumors suggest a major OS will block your core integration next quarter.",
+    "choices": [
+      { "text": "Proactively redesign the integration to comply with rumored rules.", "score": 75, "roi": 10000 },
+      { "text": "Develop an API workaround in stealth mode.", "score": 80, "roi": 15000 },
+      { "text": "Wait for official notice before acting.", "score": 35, "roi": -5000 },
+      { "text": "Lobby the OS vendor through joint marketing partnerships.", "score": 65, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Uncertainty",
+    "text": "VR headsets suddenly gain mainstream adoption faster than forecast.",
+    "choices": [
+      { "text": "Shift 30 % of dev resources to VR SDK immediately.", "score": 85, "roi": 18000 },
+      { "text": "Partner with a VR studio while keeping the original roadmap.", "score": 75, "roi": 10000 },
+      { "text": "Maintain current UI stack and observe adoption data.", "score": 45, "roi": -2000 },
+      { "text": "Acquire a small VR startup to enter the space quickly.", "score": 65, "roi": -8000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Complexity",
+    "text": "Your monolith codebase now spans three languages and dozens of services.",
+    "choices": [
+      { "text": "Refactor into microservices with a unified language standard.", "score": 90, "roi": 15000 },
+      { "text": "Outsource a rewrite to a specialist firm.", "score": 70, "roi": -5000 },
+      { "text": "Heavy documentation plus gradual modularization over 12 months.", "score": 65, "roi": 3000 },
+      { "text": "Delay action until a major outage forces the rewrite.", "score": 30, "roi": -15000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Complexity",
+    "text": "New privacy laws require granular user consent flows across regions.",
+    "choices": [
+      { "text": "Build a modular consent framework with localization support.", "score": 85, "roi": 12000 },
+      { "text": "Purchase a third-party consent-as-a-service API.", "score": 75, "roi": 8000 },
+      { "text": "Delay compliance until official enforcement letters arrive.", "score": 35, "roi": -8000 },
+      { "text": "Eliminate personal-data features to avoid compliance overhead.", "score": 60, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Ambiguity",
+    "text": "Quantum computing advances may break your encryption suite within five years.",
+    "choices": [
+      { "text": "Invest in post-quantum cryptography R&D with academic partners.", "score": 80, "roi": -8000 },
+      { "text": "Rebrand as a holistic data resilience vendor.", "score": 60, "roi": 5000 },
+      { "text": "Pause new encryption features until standards emerge.", "score": 45, "roi": 0 },
+      { "text": "Exit encryption products and pivot to consulting.", "score": 30, "roi": -12000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Ambiguity",
+    "text": "Decentralized Web3 storage might undercut your cloud sync product.",
+    "choices": [
+      { "text": "Prototype a hybrid on-chain storage option for power users.", "score": 70, "roi": 2000 },
+      { "text": "Ignore the trend until regulatory frameworks solidify.", "score": 40, "roi": 0 },
+      { "text": "Open-source a basic connector to IPFS to hedge bets.", "score": 65, "roi": 6000 },
+      { "text": "Market your product as the safer, centralized alternative.", "score": 55, "roi": 4000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Volatility",
+    "text": "An open-source competitor releases your flagship feature for free.",
+    "choices": [
+      { "text": "Differentiate with premium SLA-based support tiers.", "score": 80, "roi": 12000 },
+      { "text": "Open-source your own solution and monetize add-ons.", "score": 70, "roi": 8000 },
+      { "text": "Slash your price by 50 % to retain customers.", "score": 55, "roi": 4000 },
+      { "text": "Ignore the release and focus on new roadmap items.", "score": 60, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Tech",
+    "category": "Ambiguity",
+    "text": "New AI regulations on training data are rumored but not confirmed.",
+    "choices": [
+      { "text": "Create an internal ethics board and data audit trail.", "score": 85, "roi": -8000 },
+      { "text": "Continue collecting data aggressively until rules are final.", "score": 35, "roi": 0 },
+      { "text": "Shift to open-source data only.", "score": 70, "roi": 5000 },
+      { "text": "Suspend model training until clarity comes.", "score": 50, "roi": -2000 }
+    ]
+  },
+
+  {
+    "industry": "Manufacturing",
+    "category": "Volatility",
+    "text": "A key raw material price doubles overnight.",
+    "choices": [
+      { "text": "Lock in long-term futures contracts to hedge.", "score": 90, "roi": 20000 },
+      { "text": "Pass the cost to customers immediately.", "score": 60, "roi": 5000 },
+      { "text": "Switch to a cheaper substitute material.", "score": 50, "roi": -3000 },
+      { "text": "Halt production until prices stabilize.", "score": 25, "roi": -25000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Volatility",
+    "text": "Your primary assembly robot arm fails, halting the line.",
+    "choices": [
+      { "text": "Activate backup manual assembly with overtime pay.", "score": 75, "roi": 10000 },
+      { "text": "Fly in a replacement arm under emergency shipping.", "score": 85, "roi": -5000 },
+      { "text": "Cancel all orders affected by the delay.", "score": 30, "roi": -15000 },
+      { "text": "Shift production to a partner plant temporarily.", "score": 65, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Uncertainty",
+    "text": "New export tariffs are rumored but details are unclear.",
+    "choices": [
+      { "text": "Scenario-plan multiple tariff tiers with trade advisors.", "score": 85, "roi": -4000 },
+      { "text": "Rush-ship inventory before tariffs take effect.", "score": 70, "roi": 12000 },
+      { "text": "Move final assembly to a tariff-free partner country.", "score": 75, "roi": -2000 },
+      { "text": "Dismiss rumors as speculation and wait.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Uncertainty",
+    "text": "Clients inquire about customizable parts with no firm volume.",
+    "choices": [
+      { "text": "Invest in flexible manufacturing cells for mass customization.", "score": 85, "roi": 15000 },
+      { "text": "Offer only fixed product lines and track interest.", "score": 45, "roi": -1000 },
+      { "text": "Partner with a customization software platform to pilot.", "score": 70, "roi": 8000 },
+      { "text": "Delay decision until demand data is stronger.", "score": 50, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Complexity",
+    "text": "Your supply chain now spans five countries with different compliance rules.",
+    "choices": [
+      { "text": "Implement end-to-end SCM tracking with real-time dashboards.", "score": 90, "roi": 18000 },
+      { "text": "Hire an experienced supply-chain manager to centralize oversight.", "score": 75, "roi": -3000 },
+      { "text": "Manage manually with spreadsheets to save cost.", "score": 50, "roi": 2000 },
+      { "text": "Accept minor delays and cost overruns for now.", "score": 30, "roi": -6000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Complexity",
+    "text": "Quality standards differ widely across your export markets.",
+    "choices": [
+      { "text": "Adopt the strictest common standard globally.", "score": 85, "roi": -4000 },
+      { "text": "Create separate product lines for each major market.", "score": 70, "roi": -2000 },
+      { "text": "Stick to home-market specs and accept limited exports.", "score": 45, "roi": -8000 },
+      { "text": "Ignore and hope regulators overlook minor discrepancies.", "score": 20, "roi": -15000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Ambiguity",
+    "text": "IoT-enabled 'smart products' receive mixed customer reviews.",
+    "choices": [
+      { "text": "Run a small beta with detailed feedback collection.", "score": 80, "roi": 4000 },
+      { "text": "Offer both smart and traditional product lines for choice.", "score": 65, "roi": 2000 },
+      { "text": "Discontinue the smart line and stick to core products.", "score": 40, "roi": -2000 },
+      { "text": "Ignore feedback and continue mass production.", "score": 30, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Ambiguity",
+    "text": "Industry 4.0 automation promises ROI, but payback periods vary widely.",
+    "choices": [
+      { "text": "Pilot a smart factory cell to gather hard data.", "score": 85, "roi": 15000 },
+      { "text": "Attend trade conferences to benchmark peers first.", "score": 60, "roi": -2000 },
+      { "text": "Wait until ROI case studies are mature.", "score": 45, "roi": 0 },
+      { "text": "Hire consultants for a feasibility study.", "score": 70, "roi": -4000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Volatility",
+    "text": "Raw material quality fluctuates daily, leading to high defect rates.",
+    "choices": [
+      { "text": "Increase QA sampling and quarantine suspect batches.", "score": 85, "roi": 8000 },
+      { "text": "Switch to an alternate supplier despite higher price.", "score": 70, "roi": 5000 },
+      { "text": "Accept minor quality drops to keep costs down.", "score": 50, "roi": -3000 },
+      { "text": "Pause production until the source stabilizes.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "category": "Ambiguity",
+    "text": "Biodegradable plastic buzz grows, but customer demand is unclear.",
+    "choices": [
+      { "text": "Prototype a small biodegradable batch for pilot markets.", "score": 80, "roi": 4000 },
+      { "text": "Convert 100 % of production lines to biodegradable now.", "score": 50, "roi": -10000 },
+      { "text": "Fund university research while monitoring policy shifts.", "score": 70, "roi": -3000 },
+      { "text": "Wait for a large competitor to move first.", "score": 40, "roi": 0 }
+    ]
+  },
+
+  {
+    "industry": "Healthcare",
+    "category": "Volatility",
+    "text": "A flu outbreak doubles patient volume in 48 hours.",
+    "choices": [
+      { "text": "Activate surge staffing and overflow wards.", "score": 85, "roi": -6000 },
+      { "text": "Divert non-critical visits to telehealth appointments.", "score": 75, "roi": -2000 },
+      { "text": "Enforce first-come, first-served policy only.", "score": 40, "roi": -8000 },
+      { "text": "Close new admissions once beds are full.", "score": 20, "roi": -15000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Volatility",
+    "text": "A critical medication is suddenly recalled worldwide.",
+    "choices": [
+      { "text": "Find alternative suppliers and fast-track import approvals.", "score": 85, "roi": 0 },
+      { "text": "Substitute with therapeutically similar drugs.", "score": 70, "roi": -2000 },
+      { "text": "Reserve remaining stock for highest-risk patients.", "score": 60, "roi": 0 },
+      { "text": "Inform patients to seek alternatives elsewhere.", "score": 50, "roi": -1000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Uncertainty",
+    "text": "Telehealth reimbursement rules are still unclear for next year.",
+    "choices": [
+      { "text": "Expand telehealth pilots in anticipation of coverage.", "score": 80, "roi": 6000 },
+      { "text": "Maintain limited telehealth until rules finalize.", "score": 40, "roi": 0 },
+      { "text": "Lobby insurers and regulators aggressively.", "score": 75, "roi": 5000 },
+      { "text": "Suspend telehealth investments until certainty arrives.", "score": 30, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Uncertainty",
+    "text": "A wellness startup offers at-home tests that could reduce clinic visits.",
+    "choices": [
+      { "text": "Partner and integrate their results into your EHR.", "score": 90, "roi": 15000 },
+      { "text": "Launch your own DIY testing kit quickly.", "score": 65, "roi": 8000 },
+      { "text": "Lobby regulators to slow their approval.", "score": 30, "roi": -5000 },
+      { "text": "Ignore and focus on in-person services.", "score": 35, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Complexity",
+    "text": "Your EHR integration across three hospital systems keeps failing.",
+    "choices": [
+      { "text": "Hire a specialized health IT integration firm.", "score": 85, "roi": -6000 },
+      { "text": "Maintain separate records offline as a fallback.", "score": 60, "roi": -2000 },
+      { "text": "Migrate everyone to one unified EHR vendor.", "score": 75, "roi": -8000 },
+      { "text": "Delay integration until next budget cycle.", "score": 35, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Complexity",
+    "text": "Medical device approvals vary dramatically by region.",
+    "choices": [
+      { "text": "Hire regional regulatory consultants to streamline.", "score": 80, "roi": -4000 },
+      { "text": "Launch only in the easiest market first.", "score": 70, "roi": 2000 },
+      { "text": "Delay global launch until rules align.", "score": 40, "roi": 0 },
+      { "text": "Ignore differences and risk non-compliance.", "score": 25, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Ambiguity",
+    "text": "Wearable health trackers produce massive data, but reliability is unproven.",
+    "choices": [
+      { "text": "Launch a validation study with academic partners.", "score": 85, "roi": 7000 },
+      { "text": "Integrate only selected wearable metrics.", "score": 65, "roi": 3000 },
+      { "text": "Wait for FDA guidance before accepting data.", "score": 45, "roi": 0 },
+      { "text": "Ban wearable imports into your system.", "score": 30, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Ambiguity",
+    "text": "AI imaging tools claim to detect cancer earlier, but evidence is mixed.",
+    "choices": [
+      { "text": "Run blinded trials across your hospital network.", "score": 90, "roi": -9000 },
+      { "text": "Deploy AI in non-critical screenings only.", "score": 70, "roi": 4000 },
+      { "text": "Hold off until the tools receive strong endorsements.", "score": 50, "roi": 0 },
+      { "text": "Buy the AI tool and market it as a differentiator.", "score": 60, "roi": 2000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Volatility",
+    "text": "Insurers cut reimbursement rates for common procedures overnight.",
+    "choices": [
+      { "text": "Negotiate bundled pricing with insurers to offset cuts.", "score": 80, "roi": 10000 },
+      { "text": "Pass cost differences to patients directly.", "score": 60, "roi": 4000 },
+      { "text": "Reduce volume of the affected procedures.", "score": 55, "roi": 0 },
+      { "text": "Accept the new rates without action.", "score": 40, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Healthcare",
+    "category": "Uncertainty",
+    "text": "Direct-to-consumer genetic testing surges in popularity.",
+    "choices": [
+      { "text": "Launch in-clinic genetic counseling packages.", "score": 85, "roi": 9000 },
+      { "text": "Refer patients to partner labs for shared revenue.", "score": 70, "roi": 4000 },
+      { "text": "Wait for clear regulatory stance on consumer genetics.", "score": 50, "roi": 0 },
+      { "text": "Discourage testing due to privacy concerns.", "score": 30, "roi": -1000 }
+    ]
+  },
+
+  {
+    "industry": "Finance",
+    "category": "Volatility",
+    "text": "Global stock markets drop 5 % in a single day.",
+    "choices": [
+      { "text": "Buy undervalued blue-chip stocks aggressively.", "score": 80, "roi": 15000 },
+      { "text": "Hedge with index put options to limit downside.", "score": 85, "roi": 8000 },
+      { "text": "Liquidate high-volatility assets.", "score": 70, "roi": 5000 },
+      { "text": "Do nothing and wait for a rebound.", "score": 50, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Volatility",
+    "text": "Unexpected credit rating downgrade threatens funding costs.",
+    "choices": [
+      { "text": "Reissue bonds with stricter covenants at higher rates.", "score": 75, "roi": -5000 },
+      { "text": "Cut non-essential operating expenses immediately.", "score": 65, "roi": -2000 },
+      { "text": "Secure a new credit line with commercial banks.", "score": 80, "roi": 8000 },
+      { "text": "Ignore the downgrade publicly.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Uncertainty",
+    "text": "Central bank hints at interest-rate hikes next quarter.",
+    "choices": [
+      { "text": "Shorten bond portfolio duration to reduce rate risk.", "score": 85, "roi": 12000 },
+      { "text": "Hold until the official decision is announced.", "score": 45, "roi": 0 },
+      { "text": "Short interest-rate futures to hedge.", "score": 75, "roi": 10000 },
+      { "text": "Diversify into foreign-currency bonds.", "score": 70, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Uncertainty",
+    "text": "A fintech startup launches zero-fee blockchain payments.",
+    "choices": [
+      { "text": "Invest in the startup for strategic exposure.", "score": 80, "roi": -5000 },
+      { "text": "Develop a competing zero-fee feature in-house.", "score": 85, "roi": 12000 },
+      { "text": "Monitor adoption before reacting.", "score": 50, "roi": 0 },
+      { "text": "Publicly question the security of blockchain payments.", "score": 25, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Complexity",
+    "text": "KYC regulations differ across every region you operate in.",
+    "choices": [
+      { "text": "Build a unified global KYC platform with dynamic rules.", "score": 85, "roi": 10000 },
+      { "text": "Maintain separate regional KYC processes.", "score": 60, "roi": -2000 },
+      { "text": "Outsource KYC compliance to a specialist firm.", "score": 75, "roi": -5000 },
+      { "text": "Delay full compliance until fines appear.", "score": 35, "roi": -8000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Complexity",
+    "text": "Advanced hedging models are required for interest-rate swaps portfolio.",
+    "choices": [
+      { "text": "Hire a dedicated quantitative research team.", "score": 90, "roi": 15000 },
+      { "text": "License third-party hedging software.", "score": 75, "roi": -2000 },
+      { "text": "Simplify the swaps portfolio and reduce positions.", "score": 60, "roi": 5000 },
+      { "text": "Ignore model upgrades and accept variability.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Ambiguity",
+    "text": "DeFi regulation remains unclear across key markets.",
+    "choices": [
+      { "text": "Lobby regulators and shape policy early.", "score": 85, "roi": -4000 },
+      { "text": "Launch a small regulated DeFi pilot product.", "score": 75, "roi": 8000 },
+      { "text": "Avoid DeFi altogether until clarity emerges.", "score": 50, "roi": 0 },
+      { "text": "Double-down on traditional banking services in marketing.", "score": 40, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Ambiguity",
+    "text": "AI robo-advisors grow popular, but liability rules are fuzzy.",
+    "choices": [
+      { "text": "Develop an in-house robo-advisor with human oversight.", "score": 85, "roi": 10000 },
+      { "text": "Partner with an AI startup for co-branded robo advice.", "score": 80, "roi": 9000 },
+      { "text": "Stick to human advisors only to avoid risks.", "score": 45, "roi": -2000 },
+      { "text": "Launch a small AI trial with disclaimers.", "score": 70, "roi": 6000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Volatility",
+    "text": "A major cyber-attack disrupts core banking systems.",
+    "choices": [
+      { "text": "Activate incident-response team and public updates.", "score": 95, "roi": -5000 },
+      { "text": "Switch to manual backups and phone-banking temporarily.", "score": 80, "roi": -2000 },
+      { "text": "Cover up the breach until patched.", "score": 20, "roi": -15000 },
+      { "text": "Pay the ransom to restore services quickly.", "score": 30, "roi": -20000 }
+    ]
+  },
+  {
+    "industry": "Finance",
+    "category": "Uncertainty",
+    "text": "Cryptocurrency volatility spikes, impacting your custody service.",
+    "choices": [
+      { "text": "Increase custody fees temporarily to cover risk.", "score": 70, "roi": 6000 },
+      { "text": "Halt new crypto inflows until markets stabilize.", "score": 55, "roi": -5000 },
+      { "text": "Launch volatility-protected custody insurance.", "score": 85, "roi": 12000 },
+      { "text": "Short major crypto assets to hedge balance-sheet exposure.", "score": 65, "roi": 8000 }
+    ]
+  },
+
+  {
+    "industry": "Education",
+    "category": "Volatility",
+    "text": "Campus Wi-Fi fails during final online exams.",
+    "choices": [
+      { "text": "Switch to paper exams in emergency halls.", "score": 85, "roi": 0 },
+      { "text": "Extend exam submission windows by 24 hours.", "score": 75, "roi": 0 },
+      { "text": "Delay all exams until Wi-Fi is restored.", "score": 50, "roi": -2000 },
+      { "text": "Move exams to a back-up mobile hotspot network.", "score": 65, "roi": -1000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Volatility",
+    "text": "Mid-semester enrollment drops by 15 %.",
+    "choices": [
+      { "text": "Launch fast-track micro-course promotions.", "score": 80, "roi": 6000 },
+      { "text": "Reduce adjunct faculty hours to cut costs.", "score": 55, "roi": -5000 },
+      { "text": "Add self-paced online-only courses.", "score": 85, "roi": 9000 },
+      { "text": "Keep operations unchanged and hope for next intake.", "score": 40, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Uncertainty",
+    "text": "New national accreditation policy is announced but details are vague.",
+    "choices": [
+      { "text": "Begin early compliance tasks based on draft guidance.", "score": 85, "roi": -4000 },
+      { "text": "Wait for final policy to avoid wasted effort.", "score": 45, "roi": 0 },
+      { "text": "Hire accreditation experts to interpret early drafts.", "score": 75, "roi": -2000 },
+      { "text": "Lobby policymakers to influence final requirements.", "score": 65, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Uncertainty",
+    "text": "AI essay grading tools become popular, but bias concerns persist.",
+    "choices": [
+      { "text": "Pilot AI grading with human moderation.", "score": 80, "roi": 5000 },
+      { "text": "Maintain manual grading until AI is proven unbiased.", "score": 40, "roi": -1000 },
+      { "text": "Offer professional development for faculty on AI tools.", "score": 70, "roi": 3000 },
+      { "text": "Reject AI outright to protect academic integrity.", "score": 30, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Complexity",
+    "text": "Five different LMS platforms are used across departments.",
+    "choices": [
+      { "text": "Standardize on a single LMS campus-wide.", "score": 90, "roi": 7000 },
+      { "text": "Integrate platforms with middleware connectors.", "score": 75, "roi": -3000 },
+      { "text": "Maintain multiple systems but negotiate discounts.", "score": 55, "roi": -2000 },
+      { "text": "Ignore the issue to avoid disruption.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Complexity",
+    "text": "Visa policies for international students shift unpredictably.",
+    "choices": [
+      { "text": "Create a dedicated immigration advisory team.", "score": 85, "roi": -4000 },
+      { "text": "Focus recruitment on domestic students only.", "score": 60, "roi": -1000 },
+      { "text": "Partner with agencies to assist pending visas.", "score": 75, "roi": -3000 },
+      { "text": "Wait for visa policy stability.", "score": 25, "roi": -5000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Ambiguity",
+    "text": "Demand for micro-credentials fluctuates across industries.",
+    "choices": [
+      { "text": "Launch a pilot program of stackable certificates.", "score": 85, "roi": 6000 },
+      { "text": "Stay focused on traditional degree programs.", "score": 45, "roi": -1000 },
+      { "text": "Partner with leading employers for co-branded badges.", "score": 70, "roi": 4000 },
+      { "text": "Monitor student interest for a year before investing.", "score": 50, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Ambiguity",
+    "text": "VR class simulations may revolutionize labs, but hardware is costly.",
+    "choices": [
+      { "text": "Pilot VR labs for high-value STEM courses.", "score": 80, "roi": 5000 },
+      { "text": "Offer low-cost mobile VR electives first.", "score": 60, "roi": 3000 },
+      { "text": "Delay VR adoption until prices fall.", "score": 45, "roi": 0 },
+      { "text": "Invest in full VR lab sets campus-wide immediately.", "score": 70, "roi": -8000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Volatility",
+    "text": "Government funding is cut mid-semester by 20 %.",
+    "choices": [
+      { "text": "Launch an emergency alumni fundraising drive.", "score": 85, "roi": 0 },
+      { "text": "Freeze hiring and defer capital projects.", "score": 70, "roi": -2000 },
+      { "text": "Cut non-academic extracurricular programs.", "score": 60, "roi": -5000 },
+      { "text": "Raise tuition immediately for next semester.", "score": 45, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Education",
+    "category": "Uncertainty",
+    "text": "Industry demand for data-science graduates spikes suddenly.",
+    "choices": [
+      { "text": "Fast-track a data-science bootcamp with industry mentors.", "score": 90, "roi": 10000 },
+      { "text": "Expand existing degree capacity for next intake.", "score": 70, "roi": 4000 },
+      { "text": "Partner with MOOC platforms to co-deliver content.", "score": 80, "roi": 6000 },
+      { "text": "Stick with current curriculum and observe job market.", "score": 40, "roi": -2000 }
+    ]
+  },
+
+  {
+    "industry": "Tourism",
+    "category": "Volatility",
+    "text": "A sudden volcanic eruption grounds flights to your island resort.",
+    "choices": [
+      { "text": "Offer free date changes or credit vouchers to all guests.", "score": 80, "roi": -4000 },
+      { "text": "Relocate guests to sister properties on the mainland.", "score": 85, "roi": 6000 },
+      { "text": "Refund bookings but charge an admin fee.", "score": 50, "roi": -7000 },
+      { "text": "Do nothing and wait for the situation to clear.", "score": 20, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Volatility",
+    "text": "A viral video shows poor hygiene in one of your hotels.",
+    "choices": [
+      { "text": "Deep-clean the property and invite vloggers to document improvements.", "score": 90, "roi": 12000 },
+      { "text": "Issue a public apology and offer discounts.", "score": 70, "roi": 4000 },
+      { "text": "Blame a rogue staff member and fire them publicly.", "score": 40, "roi": -5000 },
+      { "text": "Ignore the video hoping it fades.", "score": 25, "roi": -8000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Uncertainty",
+    "text": "Travel visa rules for a key market may tighten next year.",
+    "choices": [
+      { "text": "Partner with agencies to streamline visa processing.", "score": 80, "roi": 7000 },
+      { "text": "Shift marketing budgets to visa-exempt countries.", "score": 70, "roi": 6000 },
+      { "text": "Lobby the government through tourism boards.", "score": 65, "roi": 3000 },
+      { "text": "Wait for final policy before acting.", "score": 45, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Uncertainty",
+    "text": "Eco-conscious travelers demand carbon-neutral stays.",
+    "choices": [
+      { "text": "Launch carbon-offset packages bundled with each booking.", "score": 85, "roi": 8000 },
+      { "text": "Certify properties with a recognized eco label.", "score": 70, "roi": 6000 },
+      { "text": "Ignore trend until major OTAs enforce it.", "score": 40, "roi": 0 },
+      { "text": "Offer tree-planting donations as an optional add-on.", "score": 60, "roi": 3000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Complexity",
+    "text": "Local tax laws now differ by municipality for homestays.",
+    "choices": [
+      { "text": "Implement region-specific pricing that includes taxes.", "score": 75, "roi": -2000 },
+      { "text": "Absorb all taxes centrally and simplify customer pricing.", "score": 60, "roi": -4000 },
+      { "text": "Use automated tax software to calculate fees per booking.", "score": 85, "roi": -1000 },
+      { "text": "List tax as payable at check-in to avoid system changes.", "score": 40, "roi": -5000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Complexity",
+    "text": "Your hotel chain operates under five different brand standards.",
+    "choices": [
+      { "text": "Create a single master brand guideline and retrain staff.", "score": 80, "roi": -6000 },
+      { "text": "Keep standards separate and leverage niche markets.", "score": 70, "roi": 4000 },
+      { "text": "Spin off weaker brands to franchisees.", "score": 65, "roi": 9000 },
+      { "text": "Ignore brand inconsistencies until guest complaints rise.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Ambiguity",
+    "text": "Metaverse 'virtual travel' threatens physical tourism markets.",
+    "choices": [
+      { "text": "Develop VR previews that upsell real visits.", "score": 75, "roi": 5000 },
+      { "text": "Partner with a metaverse platform for brand presence.", "score": 70, "roi": 2000 },
+      { "text": "Dismiss VR travel as a fad.", "score": 40, "roi": -1000 },
+      { "text": "License your resort brand to virtual tour operators.", "score": 65, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Ambiguity",
+    "text": "Traveler expectations for work-cation packages are evolving.",
+    "choices": [
+      { "text": "Add dedicated co-working spaces and high-speed internet bundles.", "score": 85, "roi": 9000 },
+      { "text": "Offer extended-stay discounts with flexible check-in.", "score": 75, "roi": 6000 },
+      { "text": "Stick to leisure packages only.", "score": 35, "roi": -2000 },
+      { "text": "Survey past guests before changing offerings.", "score": 50, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Volatility",
+    "text": "Political unrest causes a 30 % drop in bookings overnight.",
+    "choices": [
+      { "text": "Shift marketing spend to safer nearby destinations.", "score": 80, "roi": 7000 },
+      { "text": "Offer deep discounts to keep occupancy up.", "score": 55, "roi": 2000 },
+      { "text": "Temporarily close properties in affected areas.", "score": 60, "roi": -5000 },
+      { "text": "Lobby for government stability statements.", "score": 45, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Tourism",
+    "category": "Uncertainty",
+    "text": "A competitor introduces fully automated check-in kiosks chain-wide.",
+    "choices": [
+      { "text": "Pilot kiosks in flagship properties and gather feedback.", "score": 85, "roi": 8000 },
+      { "text": "Invest heavily in human-centred concierge service instead.", "score": 70, "roi": 6000 },
+      { "text": "Wait to see if kiosks improve guest satisfaction scores.", "score": 50, "roi": 0 },
+      { "text": "Copy the kiosks chain-wide immediately.", "score": 60, "roi": -4000 }
+    ]
+  },
+
+  {
+    "industry": "Agriculture",
+    "category": "Volatility",
+    "text": "A sudden drought reduces water supply by 40 %.",
+    "choices": [
+      { "text": "Install drip-irrigation to maximize efficiency.", "score": 80, "roi": 12000 },
+      { "text": "Switch to drought-resistant crop varieties for this season.", "score": 75, "roi": 6000 },
+      { "text": "Ration irrigation and accept lower yield.", "score": 45, "roi": -5000 },
+      { "text": "Leave fields fallow and claim insurance.", "score": 50, "roi": 2000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Volatility",
+    "text": "Key fertilizer prices double overnight.",
+    "choices": [
+      { "text": "Bulk-buy fertilizer futures to hedge costs.", "score": 85, "roi": 15000 },
+      { "text": "Apply precision fertilization to reduce usage.", "score": 70, "roi": 8000 },
+      { "text": "Raise crop prices to pass costs onward.", "score": 60, "roi": 4000 },
+      { "text": "Use lower-grade fertilizer and risk yield reduction.", "score": 40, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Uncertainty",
+    "text": "A new pest is reported region-wide; impact is unknown.",
+    "choices": [
+      { "text": "Introduce biological control agents preemptively.", "score": 80, "roi": 7000 },
+      { "text": "Wait for government pest alerts before acting.", "score": 45, "roi": 0 },
+      { "text": "Spray broad-spectrum pesticides immediately.", "score": 60, "roi": -6000 },
+      { "text": "Shift planting schedule to less-susceptible crops.", "score": 70, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Uncertainty",
+    "text": "Consumer demand shifts toward plant-based protein crops.",
+    "choices": [
+      { "text": "Allocate 30 % acreage to high-protein legumes.", "score": 85, "roi": 10000 },
+      { "text": "Run a small pilot block to test soil suitability.", "score": 70, "roi": 5000 },
+      { "text": "Stick to existing crop rotation and observe market.", "score": 50, "roi": 0 },
+      { "text": "Sign futures contracts with plant-protein processors.", "score": 80, "roi": 9000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Complexity",
+    "text": "You manage farmland across three climate zones with different rules.",
+    "choices": [
+      { "text": "Implement farm management software with zone-specific modules.", "score": 90, "roi": 15000 },
+      { "text": "Hire local agronomists for each zone.", "score": 75, "roi": -4000 },
+      { "text": "Centralize decisions and accept inefficiencies.", "score": 55, "roi": -2000 },
+      { "text": "Sell least-profitable zones to focus on core farms.", "score": 65, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Complexity",
+    "text": "New food-traceability mandates require batch-level tracking.",
+    "choices": [
+      { "text": "Adopt blockchain-based traceability for end-to-end visibility.", "score": 85, "roi": 12000 },
+      { "text": "Implement QR code labels linked to a simple database.", "score": 70, "roi": 6000 },
+      { "text": "Lobby for delayed enforcement of mandates.", "score": 40, "roi": -3000 },
+      { "text": "Ignore until penalties are enforced.", "score": 25, "roi": -8000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Ambiguity",
+    "text": "Vertical farming tech promises high yield but ROI data is scarce.",
+    "choices": [
+      { "text": "Pilot a small vertical farm using unused warehouse space.", "score": 80, "roi": 7000 },
+      { "text": "Partner with a vertical farming startup for joint research.", "score": 75, "roi": 5000 },
+      { "text": "Wait for proven large-scale success cases.", "score": 50, "roi": 0 },
+      { "text": "Dismiss vertical farming as hype.", "score": 35, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Ambiguity",
+    "text": "Lab-grown meat could disrupt traditional livestock demand.",
+    "choices": [
+      { "text": "Invest in alternative-protein subsidiaries to hedge.", "score": 85, "roi": -6000 },
+      { "text": "Market grass-fed ethical meat as premium.", "score": 70, "roi": 8000 },
+      { "text": "Reduce livestock herd size gradually.", "score": 60, "roi": -1000 },
+      { "text": "Ignore lab-grown meat trend.", "score": 30, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Volatility",
+    "text": "International commodity prices crash 25 % after bumper harvest worldwide.",
+    "choices": [
+      { "text": "Store crops in silos and wait for rebound.", "score": 80, "roi": 6000 },
+      { "text": "Sell futures contracts to lock in minimum prices.", "score": 85, "roi": 10000 },
+      { "text": "Dump stock quickly to avoid spoilage.", "score": 45, "roi": -3000 },
+      { "text": "Switch to high-value niche crops next season.", "score": 70, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "category": "Ambiguity",
+    "text": "Drones for crop monitoring promise cost savings but pilot rules are fuzzy.",
+    "choices": [
+      { "text": "Obtain preliminary drone permits and launch a small fleet.", "score": 75, "roi": 5000 },
+      { "text": "Partner with a drone-as-a-service provider under shared risk.", "score": 70, "roi": 4000 },
+      { "text": "Wait until aviation rules are finalized.", "score": 50, "roi": 0 },
+      { "text": "Hire additional field scouts instead of drones.", "score": 40, "roi": -2000 }
+    ]
+  },
+
+  {
+    "industry": "Transportation",
+    "category": "Volatility",
+    "text": "Fuel prices spike 30 % overnight.",
+    "choices": [
+      { "text": "Add a fuel-surcharge to all deliveries immediately.", "score": 70, "roi": 8000 },
+      { "text": "Lock in fuel hedging contracts for six months.", "score": 85, "roi": 12000 },
+      { "text": "Switch to slower shipping speeds to conserve fuel.", "score": 60, "roi": 3000 },
+      { "text": "Absorb costs to maintain customer loyalty.", "score": 45, "roi": -5000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Volatility",
+    "text": "A major bridge on your logistics route collapses.",
+    "choices": [
+      { "text": "Reroute traffic via longer paths and inform clients.", "score": 80, "roi": -3000 },
+      { "text": "Charter rail freight until repairs finish.", "score": 70, "roi": 5000 },
+      { "text": "Delay deliveries and offer fee reductions.", "score": 50, "roi": -6000 },
+      { "text": "Lobby government for emergency repair funding.", "score": 60, "roi": 2000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Uncertainty",
+    "text": "Autonomous truck regulations are under draft review.",
+    "choices": [
+      { "text": "Pilot autonomous trucks on low-traffic routes.", "score": 85, "roi": 9000 },
+      { "text": "Partner with an AV tech firm for trials.", "score": 80, "roi": 7000 },
+      { "text": "Stick to human drivers until laws are clear.", "score": 50, "roi": 0 },
+      { "text": "Publicly oppose autonomous trucking due to safety.", "score": 35, "roi": -3000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Uncertainty",
+    "text": "E-commerce giants push same-day delivery expectations.",
+    "choices": [
+      { "text": "Invest in urban micro-depots for faster dispatch.", "score": 90, "roi": 15000 },
+      { "text": "Partner with crowd-sourced gig couriers.", "score": 70, "roi": 6000 },
+      { "text": "Offer optional premium same-day for extra fees.", "score": 75, "roi": 8000 },
+      { "text": "Maintain current 48-hour delivery standard.", "score": 45, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Complexity",
+    "text": "Multiple emissions standards apply across your regional fleet.",
+    "choices": [
+      { "text": "Upgrade fleet with modular emission kits.", "score": 80, "roi": 9000 },
+      { "text": "Create region-specific fleets to comply.", "score": 70, "roi": -4000 },
+      { "text": "Buy carbon offsets instead of upgrading.", "score": 60, "roi": -2000 },
+      { "text": "Ignore and risk hefty fines.", "score": 25, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Complexity",
+    "text": "Supply chain software needs real-time data from ten partner systems.",
+    "choices": [
+      { "text": "Implement an API hub integrating all partners.", "score": 90, "roi": 17000 },
+      { "text": "Use nightly batch imports instead of real-time.", "score": 60, "roi": 3000 },
+      { "text": "Mandate partners adopt your proprietary platform.", "score": 50, "roi": -2000 },
+      { "text": "Hire a managed-service provider to handle integration.", "score": 75, "roi": -5000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Ambiguity",
+    "text": "Urban drone delivery could bypass traffic but public policy is unfixed.",
+    "choices": [
+      { "text": "Partner with a drone startup for pilot routes.", "score": 75, "roi": 5000 },
+      { "text": "Start lobbying city councils for pro-drone rules.", "score": 70, "roi": 4000 },
+      { "text": "Wait until larger players launch drone services.", "score": 50, "roi": 0 },
+      { "text": "Invest in electric vans instead of drones.", "score": 65, "roi": 6000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Ambiguity",
+    "text": "Subscription mobility services (car-as-a-service) rise in popularity.",
+    "choices": [
+      { "text": "Launch a pilot subscription fleet in one metro area.", "score": 80, "roi": 8000 },
+      { "text": "Partner with auto manufacturers for co-branding.", "score": 75, "roi": 6000 },
+      { "text": "Focus on traditional leasing and rentals.", "score": 45, "roi": -1000 },
+      { "text": "Survey customers for interest before acting.", "score": 55, "roi": 1000 }
+    ]
+  },
+  {
+    "industry": "Transportation",
+    "category": "Volatility",
+    "text": "Driver shortage spikes labor costs by 25 %.",
+    "choices": [
+      { "text": "Increase driver pay and add referral bonuses.", "score": 70, "roi": -2000 },
+      { "text": "Invest in driverless truck research to hedge.", "score": 85, "roi": -8000 },
+      { "text": "Contract third-party fleets for overflow routes.", "score": 75, "roi": 5000 },
+      { "text": "Raise delivery fees for customers.", "score": 60, "roi": 4000 }
+    ]
+  },
+
+  {
+    "industry": "Energy",
+    "category": "Volatility",
+    "text": "Oil prices crash 20 % overnight after global oversupply news.",
+    "choices": [
+      { "text": "Scale down production to stabilize prices.", "score": 75, "roi": -4000 },
+      { "text": "Secure storage and hold inventory.", "score": 85, "roi": 10000 },
+      { "text": "Maintain production and accept lower margins.", "score": 55, "roi": -2000 },
+      { "text": "Accelerate diversification into renewables.", "score": 70, "roi": 8000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Volatility",
+    "text": "Major blackout hits your primary consumer region.",
+    "choices": [
+      { "text": "Deploy emergency repair crews and mobile generators.", "score": 90, "roi": -5000 },
+      { "text": "Provide transparent outage maps and updates.", "score": 80, "roi": 0 },
+      { "text": "Blame the grid operator publicly.", "score": 30, "roi": -10000 },
+      { "text": "Charge premium fees for expedited reconnection.", "score": 50, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Uncertainty",
+    "text": "New solar subsidy rules are proposed but final details unknown.",
+    "choices": [
+      { "text": "Invest cautiously in solar projects with stop-loss clauses.", "score": 80, "roi": 12000 },
+      { "text": "Wait for final subsidy structure before committing.", "score": 45, "roi": 0 },
+      { "text": "Expand solar capacity regardless to gain first-mover advantage.", "score": 70, "roi": 8000 },
+      { "text": "Lobby lawmakers for favorable subsidy terms.", "score": 75, "roi": 5000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Uncertainty",
+    "text": "Hydrogen fuel tech gains hype but standards remain unclear.",
+    "choices": [
+      { "text": "Partner in pilot hydrogen refueling stations.", "score": 85, "roi": 9000 },
+      { "text": "Invest in internal R&D quietly.", "score": 80, "roi": 7000 },
+      { "text": "Wait until hydrogen infrastructure is proven.", "score": 50, "roi": 0 },
+      { "text": "Focus on current fossil fuel assets.", "score": 35, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Complexity",
+    "text": "Your grid must balance multiple renewable inputs in real time.",
+    "choices": [
+      { "text": "Upgrade to smart-grid automation software.", "score": 90, "roi": 15000 },
+      { "text": "Use manual dispatch adjustments with higher reserve margins.", "score": 55, "roi": -2000 },
+      { "text": "Outsource grid management to a specialist ISO.", "score": 75, "roi": -5000 },
+      { "text": "Ignore fluctuations and accept occasional blackouts.", "score": 30, "roi": -10000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Complexity",
+    "text": "Multiple stakeholders demand different grid expansion priorities.",
+    "choices": [
+      { "text": "Form a steering committee with all stakeholders.", "score": 85, "roi": -5000 },
+      { "text": "Hire consultants to run consensus workshops.", "score": 70, "roi": -3000 },
+      { "text": "Proceed unilaterally on profitable expansions.", "score": 40, "roi": -10000 },
+      { "text": "Delay projects until stakeholder agreement.", "score": 50, "roi": 0 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Ambiguity",
+    "text": "Carbon credit mechanisms differ across global markets.",
+    "choices": [
+      { "text": "Launch pilot carbon trading in multiple exchanges.", "score": 85, "roi": 8000 },
+      { "text": "Offset emissions in-house without trading.", "score": 55, "roi": 3000 },
+      { "text": "Wait for standardized carbon markets.", "score": 50, "roi": 0 },
+      { "text": "Announce a vague net-zero pledge only.", "score": 45, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Ambiguity",
+    "text": "Microgrid technology might disrupt centralized utility models.",
+    "choices": [
+      { "text": "Pilot a microgrid in a remote community.", "score": 80, "roi": 6000 },
+      { "text": "Brand as an integrated energy services provider.", "score": 60, "roi": 4000 },
+      { "text": "Monitor competitors' microgrid deployments first.", "score": 50, "roi": 0 },
+      { "text": "Ignore microgrids as niche tech.", "score": 30, "roi": -2000 }
+    ]
+  },
+  {
+    "industry": "Energy",
+    "category": "Volatility",
+    "text": "Geopolitical conflict disrupts natural-gas supply routes.",
+    "choices": [
+      { "text": "Activate alternative LNG import contracts.", "score": 85, "roi": 10000 },
+      { "text": "Ration gas distribution to industrial customers.", "score": 65, "roi": -2000 },
+      { "text": "Raise consumer prices to offset shortages.", "score": 70, "roi": 5000 },
+      { "text": "Wait for diplomatic resolution before acting.", "score": 30, "roi": -15000 }
+    ]
+  }
+]
